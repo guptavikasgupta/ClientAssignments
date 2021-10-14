@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{6AD6076F-9FD9-44B1-9904-D8A83F98A7F1}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CA_numWtubing/Program.cs">
+    <Files>
+      <File FileName="CA_numWtubing/ProcessController.cs" Line="21" Column="1" />
+      <File FileName="CA_numWtubing/Program.cs" Line="24" Column="46" />
+      <File FileName="CA_numWtubing/DirectoryExplorer.cs" Line="240" Column="14" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CA_numWtubing" expanded="True">
+            <Node name="CA_numWtubing" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.CA__numWtubing PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/vgupta/Dropbox/Mac/Documents/Vayani/Dinesh/Joy/CA_numWtubing/CA_numWtubing/Program.cs" relfile="CA_numWtubing/Program.cs" line="24" column="1" />
+      <Breakpoint file="/Users/vgupta/Dropbox/Mac/Documents/Vayani/Dinesh/Joy/CA_numWtubing/CA_numWtubing/Program.cs" relfile="CA_numWtubing/Program.cs" line="39" column="1" />
+      <Breakpoint file="/Users/vgupta/Dropbox/Mac/Documents/Vayani/Dinesh/Joy/CA_numWtubing/CA_numWtubing/Program.cs" relfile="CA_numWtubing/Program.cs" line="35" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
